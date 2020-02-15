@@ -1,0 +1,17 @@
+Representational state transfer (REST) is a software architectural style that defines a set of ... By using a stateless protocol and
+standard operations, RESTful systems aim for fast performance, reliability, and the ability to grow by ... Web service APIs that adhere to 
+the REST architectural constraints are called RESTful APIs.
+
+REST is primarily used over HTTP and it makes use of HTTP GET, POST, PUT, DELETE and PATCH methods for different CRUD operations. 
+SOAP also defines a binding to the HTTP protocol. When binding to HTTP, all SOAP requests are sent through HTTP POST.
+
+http://localhost:9999/restfulservices/v1/users/{id}
+http>protocol
+localhost> host or domain name
+9999> port
+restfulsefices>application content
+v1>version
+users> resource
+{id}> parameter
+restfulservices/v1/users/{id}>Restful Endpoint
+
